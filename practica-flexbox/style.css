@@ -1,0 +1,26 @@
+.flex-container{
+    display:flex;
+    justify-content: space-around;
+    height: 450px;
+    border:1px solid black; 
+    align-items:stretch;
+    flex-direction:row-reverse;
+
+}
+p {
+    widht:250px;
+    height: 250px;
+    border-width: 1px;
+    border-style:solid;
+
+    }
+p:nth-child(1){
+    border-color:red;
+}
+p:nth-child(2){
+    border-color:teal;
+}
+p:nth-child(3){
+    border-color: blueviolet;
+    
+}

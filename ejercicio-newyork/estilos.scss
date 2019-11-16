@@ -1,0 +1,13 @@
+.container {
+    margin-bottom: 45px;
+}
+.item{
+   height: 250px;
+   width: 250px;
+}
+.item{
+   &nth:child(1){
+       background-color:crimson;
+       
+   }
+}

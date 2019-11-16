@@ -1,0 +1,26 @@
+img{
+    height: 322px;
+    width: auto;
+}
+
+section{
+    width: 350px;
+    height: 503px;
+    box-sizing: border-box;
+}
+.imagen-city{
+    overflow: hidden;
+}
+h1{
+    font-size: 29px; 
+    margin-bottom: -13px;
+    padding-left: 36px;
+    font-weight: bold;
+    font-size: 21px;
+}
+
+h2{
+    
+    padding-left: 37px;
+    font-weight: bold;
+    color: #e74c3c;
